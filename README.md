@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/71/77/d9/7177d9375728a512c0624c71e34628a0.gif)]
+[![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif)]
 <h1 align="center">Hi 👋, I'm Airin Jahan Akhi</h1>
 <h3 align="center">A passionate developer From Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif">
