@@ -1,7 +1,7 @@
 ![logo](https://github.com/airin55/airin55/blob/main/airin%20banner.gif)
 <h1 align="center">Hi 👋, I'm Airin Jahan Akhi</h1>
 <h3 align="center">A passionate developer From Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif">
+<img align="right" alt="coding" width="400" src="https://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=airin55&label=Profile%20views&color=0e75b6&style=flat" alt="airin55" /> </p>
 
